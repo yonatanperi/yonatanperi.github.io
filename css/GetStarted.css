@@ -1,0 +1,21 @@
+body
+{
+  background-color: #F05F40;
+  padding-left: 16px;
+  margin: 0 auto;
+  padding-right: 16px;
+}
+.row{
+  text-align: right
+}
+.text-faded{
+  padding-right: 20px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.lev{
+  padding-right: 20px;
+  text-align: right;
+}
+h4{
+  padding-right: 20px;
+}
